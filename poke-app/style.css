@@ -28,6 +28,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url(./public/background-pok.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
 }
 
 h1 {
@@ -40,6 +45,7 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  color:black ;
 }
 
 .logo {
