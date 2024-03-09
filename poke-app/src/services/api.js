@@ -12,3 +12,7 @@ const fetchPokemon  =  async(baseURL, query) => {
     }
 }
 export default fetchPokemon;
+
+
+
+
